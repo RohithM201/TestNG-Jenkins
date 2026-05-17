@@ -56,7 +56,7 @@ public class addEmployee extends Browser {
 //        EmployeeID.isDisplayed();
 //        EmployeeID.click();
 //        keyPress(EmployeeID);
-        Thread.sleep(3000);
+//        Thread.sleep(3000);
 //        wait.until(ExpectedConditions.attributeToBe(EmployeeID,"value",""));
 
 
